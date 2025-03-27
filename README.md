@@ -16,7 +16,7 @@ EN 🇺🇸🇬🇧
 <div>
 I'm a Brazilian passionate about technology, photography, cars, and games.</br>
 I have over 10 years of experience in IT support, and I'm currently transitioning to the QA field.</br>
-Tools/languages I'm currently studying:
+Tools/languages I'm currently studying:</br>
 - Cypress</br>
 - Java</br>
 - JavaScript</br>
