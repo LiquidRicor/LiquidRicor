@@ -1,5 +1,7 @@
+<div>
 PT 🇧🇷🇵🇹
-### Seja bem vindo ao meu perfil! Me chamo Ricardo Bordino Trevisani! 👍🏻
+    <h1>Seja bem vindo ao meu perfil! Me chamo Ricardo Bordino Trevisani! 👍🏻</h1>
+</div>
 
 <div>
 Sou um brasileiro apaixonado por tecnologia, fotografia, carros e jogos.</br>
@@ -11,8 +13,13 @@ Ferramentas/linguagens que estou estudando:</br>
 </div>
 </br>
 
+<h2></h2>
+
+<div>
 EN 🇺🇸🇬🇧
-### Welcome to my profile! I am Ricardo Bordino Trevisani! 👍🏻
+    <h1>Welcome to my profile! I am Ricardo Bordino Trevisani! 👍🏻</h1>
+</div>
+
 <div>
 I'm a Brazilian passionate about technology, photography, cars, and games.</br>
 I have over 10 years of experience in IT support, and I'm currently transitioning to the QA field.</br>
@@ -24,7 +31,7 @@ Tools/languages I'm currently studying:</br>
 </br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/ricardo-bordino)
+)](www.linkedin.com/in/ricardo-bordino)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/ricardo_bordino/)
 
@@ -38,4 +45,3 @@ Tools/languages I'm currently studying:</br>
     <img aligh="center "alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img aligh="center "alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
-
